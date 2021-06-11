@@ -3,5 +3,5 @@
  */
 basic.forever(function () {
     basic.showString("VIJAY")
-    basic.pause(500)
+    basic.pause(1000)
 })
